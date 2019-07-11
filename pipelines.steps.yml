@@ -5,7 +5,7 @@ pipelines:
         type: Bash
         configuration:
           inputResources:
-            - name: app
+            - name: app1
         execution:
           onExecute:
             - printenv
