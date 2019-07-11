@@ -2,7 +2,7 @@ resources:
   - name: app
     type: GitRepo
     configuration:
-      gitProvider: gh-btashton
+      gitProvider: gh-benharosh
       path: btashton/pipelines-hello
       branches:
         include: master
