@@ -3,6 +3,6 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: gh-benharosh
-      path: btashton/pipelines-hello
+      path: benharosh/hello-pipelines
       branches:
         include: master
